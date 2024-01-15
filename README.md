@@ -11,7 +11,7 @@ This repository contains a shape drawing program created for my first year unive
 - C, R, L, T to change shape (Circle, Rectangle, Line, Triangle)
 - Right click to select a shape
 - DEL Key to delete selected shapes
-- - S Key to save drawing, O key to load
+- S Key to save drawing, O key to load
 - SPACE to change canvas colour (random color)
 
 ### Installation
