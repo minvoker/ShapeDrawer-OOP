@@ -6,7 +6,7 @@ This repository contains a shape drawing program created for my first year unive
 ## Features
 - Ability to draw several different shapes (Circle, Rectangle, Line, Triangle)
 - Save and load a drawing via txt file
-- 
+  
 ### Controls
 - C, R, L, T to change shape (Circle, Rectangle, Line, Triangle)
 - Right click to select a shape
